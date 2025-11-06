@@ -1,9 +1,7 @@
 <!---
 {
   "id": "cdd6a16c-90a8-4192-9cc3-9a3f8c6a39eb",
-  "depends_on": [
-    "5b3eacb4-79f5-40cf-8c73-3dcbbd5f8f89"
-  ],
+  "depends_on": ["5b3eacb4-79f5-40cf-8c73-3dcbbd5f8f89"],
   "author": "Exercise Sheet Assistant",
   "first_used": "2025-06-04",
   "keywords": ["LaTeX", "bibliography", "citations", "BibTeX", "references"]
